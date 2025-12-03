@@ -109,4 +109,5 @@ uv run run.py
 #### > Don't delete everything instantly: If you delete everything it writes right away, you're teaching it to stop acting altogether.
 #### > Record multiple varied problems: Diversify its learning signals by working on different problems.
 #### > Expect gradual improvement: Early episodes may feel inconsistent. Improvement becomes clearer after 4-5 episodes of training.
-### GOOD LUCK MATE!
+
+### GOOD LUCK GUYS!!!!!!!!!!!!!!!!!!!!!!!!!!!!
